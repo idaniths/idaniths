@@ -8,6 +8,7 @@
 - 👨‍💻 Most of my projects are available at [https://github.com/idaniths/Portfolio-Idan-Cheaproot](https://github.com/idaniths/Portfolio-Idan-Cheaproot)
 
 - 📫 How to reach me **idanjobb@gmail.com**
+- ·In my free time [I like to stay active, go snowboarding, play football, hiking in nature](I like to stay active, go snowboarding, play football, hiking in nature)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
