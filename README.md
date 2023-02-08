@@ -7,13 +7,13 @@
 
 - 👨‍💻 Most of my projects are available at [https://github.com/idaniths/Portfolio-Idan-Cheaproot](https://github.com/idaniths/Portfolio-Idan-Cheaproot)
 
+- 📫 How to reach me **idanjobb@gmail.com**
 
 
 
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  - 📫 How to reach me **idanjobb@gmail.com**
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
