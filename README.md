@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Idan.</h1>
 <h3 align="center">A passionate frontend developer student</h3>
+<br>
+<br>
+<br>
 
 - 🔭 I’m currently an intern at **Redmind AB**
 
