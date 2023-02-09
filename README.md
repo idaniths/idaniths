@@ -27,6 +27,5 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idaniths&show_icons=true&locale=en&layout=compact" alt="idaniths" /></p>
-<br>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idaniths&" alt="idaniths" /></p>
