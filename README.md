@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently an intern at **Redmind AB**
+- 🔭 I’m currently an intern at <a src=https://www.redmind.se/>**Redmind AB**</a>
 
 - 🌱 I’m currently learning **React Native, Typescript, Redux**
 
